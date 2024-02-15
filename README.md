@@ -57,7 +57,7 @@
 Приложение предоставляет следующие конечные точки REST API:
 - `GET /core/getAddressWithLargestBalanceChange`: Получает адрес с наибольшим изменением баланса(если правильно понял ТЗ, то он что вам нужен).
 
-- `GET /core/getActiveAddress`: Возвращает активный адреса из БД.
+- `GET /core/getActiveAddress`: Возвращает активный адрес из БД.
 
 - `GET /core/getAllTransactions`: Извлекает все транзакции из БД.
 
